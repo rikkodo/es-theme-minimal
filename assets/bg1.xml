@@ -38,7 +38,7 @@ License: creative commons CC-BY-NC-SA
     </text>
   </view>
   <view></view>
-  <view name="basic, detailed, grid">
+  <view name="video, basic, detailed, grid">
     <image name="background" extra="true">
       <path>./bg1.png</path>
     </image>

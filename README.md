@@ -20,7 +20,7 @@ So this is the smallest theme in foorprint as far as I know. \
 This theme is highly customizable, you can change from **three** amazing layout by altering `theme.xml`\
 Version 1 gets the original theme setting back as it was released 2017, whereas version 2 is a modernized layout in game list mode. Like the original author did, I decided to keep version 2 as default. The third option is a slighlty improved v1.
 
-You can always add new backgrounds to the theme by altering the `bg.png` file.
+You can always add new backgrounds to the theme by adding a new file the `bg{x}.png` file, where x stands for a letter or digit. Next edit the `bg{x}.xml` file and add it's properties.
 
 You can get rid off the "blurry" looking overlay by altering the overlay color inside the version assets, by removing the color code line.
 ```
@@ -38,9 +38,11 @@ You can get rid off the "blurry" looking overlay by altering the overlay color i
 
 2019/06/05
 
-Added background image from Minimal v1 to `_extras` \
 Enabled help system, this is can be disabled/enabled into ES now
-
+* 2026 - The Reawakening
+  * Added video, grid and detailed view
+  * Sorted things out - sleeker code
+  * This thing is really held small and still werks with 40MB VRAM
 * 2019/06/06
   * Added picture for Screenshots (BATOCERA/RECALBOX), own creation \
   * Added picture for ZX81, GX68000 and recolored Virtual Boy and Odyssey2 (=VIDEOPAC) \

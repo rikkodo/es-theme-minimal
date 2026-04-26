@@ -28,7 +28,7 @@ License: creative commons CC-BY-NC-SA
       <maxLogoCount>5</maxLogoCount>
     </carousel>
   </view>
-  <view name="basic, detailed, grid">
+  <view name="video, basic, detailed, grid">
     <image name="background" extra="true">
        <path>./bg2.png</path>
       <color>10A090</color>

@@ -18,7 +18,7 @@ License: creative commons CC-BY-NC-SA
       <size>1 0.3925</size>
     </carousel>
   </view>
-  <view name="basic, detailed, grid">
+  <view name="video, basic, detailed, grid">
     <image name="background" extra="true">
       <path>./bg3.png</path>
       <color>808080</color>

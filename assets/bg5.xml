@@ -28,7 +28,7 @@ License: creative commons CC-BY-NC-SA
       <logoPos>-1 0</logoPos>
  </carousel>
   </view>
-  <view name="basic, detailed, grid">
+  <view name="video, basic, detailed, grid">
     <image name="background" extra="true">
       <path>./bg5.png</path>
       <color>C8C8C8</color>
