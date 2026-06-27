@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+<!--
 Theme: Minimal
 Original author: Lilbud
 Maintained: 2021+ crcerror, thx @fabricecaruso for the style assets
@@ -10,13 +10,13 @@ License: creative commons CC-BY-NC-SA
   <formatVersion>7</formatVersion>
   <view name="screen">
     <text name="clock">
-      <pos>0.92 0.95</pos>
-      <size>0.07 0.025</size>
+      <pos>0.87 0.95</pos>
+      <size>0.12 0.025</size>
       <fontSize>0.025</fontSize>
       <color>FFFFFFC0</color>
       <horizontalAlignment>center</horizontalAlignment>
       <verticalAlignment>center</verticalAlignment>
-      <fontPath>./assets/SST.ttf</fontPath>
+      <fontPath>./assets/migmix-2m-regular.ttf</fontPath>
       <fontSize>0.04</fontSize>
     </text>
     <controllerActivity name="controllerActivity">
@@ -38,11 +38,11 @@ License: creative commons CC-BY-NC-SA
       <color>ffffff</color>
     </menuText>
     <menuText name="menufooter">
-      <fontPath>./assets/SST.ttf</fontPath>
+      <fontPath>./assets/migmix-2m-regular.ttf</fontPath>
       <fontSize>0.02</fontSize>
     </menuText>
     <menuText name="menutext">
-      <fontPath>./assets/SST.ttf</fontPath>
+      <fontPath>./assets/migmix-2m-regular.ttf</fontPath>
       <fontSize>0.025</fontSize>
       <color>A6C6D1</color>
       <selectorColor>0F85A5</selectorColor>
@@ -51,7 +51,7 @@ License: creative commons CC-BY-NC-SA
       <separatorColor>0C3F53</separatorColor>
     </menuText>
     <menuTextSmall name="menutextsmall">
-      <fontPath>./assets/SST.ttf</fontPath>
+      <fontPath>./assets/migmix-2m-regular.ttf</fontPath>
       <fontSize>0.02</fontSize>
     </menuTextSmall>
     <menuBackground name="menubg">
@@ -106,7 +106,7 @@ License: creative commons CC-BY-NC-SA
       <size>1 0.25</size>
       <backgroundColor>00000000</backgroundColor>
       <color>ffffff</color>
-      <fontPath>./assets/SST.ttf</fontPath>
+      <fontPath>./assets/migmix-2m-regular.ttf</fontPath>
       <fontSize>0.03</fontSize>
     </text>
   </view>
@@ -138,7 +138,7 @@ License: creative commons CC-BY-NC-SA
       <size>0.5 0.025</size>
       <pos>0.02 0.025</pos>
       <color>ffffff</color>
-      <fontPath>./assets/SST.ttf</fontPath>
+      <fontPath>./assets/migmix-2m-regular.ttf</fontPath>
       <fontSize>0.04</fontSize>
       <zIndex>2</zIndex>
     </text>
@@ -162,7 +162,7 @@ License: creative commons CC-BY-NC-SA
       <selectedColor>ffffff</selectedColor>
       <primaryColor>ffffff</primaryColor>
       <secondaryColor>ffffff</secondaryColor>
-      <fontPath>./assets/SST.ttf</fontPath>
+      <fontPath>./assets/migmix-2m-regular.ttf</fontPath>
       <fontSize>0.03</fontSize>
       <pos>0.051 0.170</pos>
       <size>0.50 0.70</size>
